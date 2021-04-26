@@ -1,8 +1,8 @@
 {
   "name": "vue3-basic-template",
   "version": "0.1.0",
-  "private": false,
-  "description": "vue3+vuex+vue-router全家桶,现代JS语法编译babel,格式检查eslint,CSS预处理sass+postcss,单元测试Jest,图标最佳实践SvgIcon,lint-staged",
+  "private": true,
+  "description": "vue3 + vuex + vue-router + babel + eslint + sass + postcss + Jest + SvgIcon + lint-staged",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -17,6 +17,8 @@
     "vue-router": "^4.0.6",
     "vuex": "^4.0.0"
   },
+  "repository": "https://github.com/zhaomenghuan/vue-webpack-template",
+  "license": "MIT",
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.12",
     "@vue/cli-plugin-eslint": "^4.5.12",
