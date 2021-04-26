@@ -1,8 +1,7 @@
 {
-  "name": "vue3-basic-template",
+  "name": "{{name}}",
   "version": "0.1.0",
   "private": true,
-  "description": "vue3 + vuex + vue-router + babel + eslint + sass + postcss + Jest + SvgIcon + lint-staged",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -17,7 +16,7 @@
     "vue-router": "^4.0.6",
     "vuex": "^4.0.0"
   },
-  "repository": "https://github.com/zhaomenghuan/vue-webpack-template",
+  "repository": "https://github.com/scarsu/vue3-basic-template",
   "license": "MIT",
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.12",
