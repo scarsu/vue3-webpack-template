@@ -1,7 +1,7 @@
 {
   "name": "vue3-basic-template",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "description": "vue3+vuex+vue-router全家桶,现代JS语法编译babel,格式检查eslint,CSS预处理sass+postcss,单元测试Jest,图标最佳实践SvgIcon,lint-staged",
   "scripts": {
     "serve": "vue-cli-service serve",
