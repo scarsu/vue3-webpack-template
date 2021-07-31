@@ -1,3 +1,4 @@
 module.exports = {
-  title: 'Vue3 Demo'
+  title: 'Vue3 Demo',
+  componentSize: 'small'
 }
