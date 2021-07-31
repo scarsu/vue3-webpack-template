@@ -1,5 +1,7 @@
 # Template for Vue3 + Webpack
 
+## Include:
+
 - Vue3
 - Vuex
 - Vue-router
@@ -12,6 +14,8 @@
 - lint-staged
 - Element-Plus
 - Echarts
+
+## Usage:
 
 ```bash
 npm i -g @vue/cli
