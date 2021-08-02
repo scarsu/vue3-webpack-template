@@ -20,5 +20,5 @@
 ```bash
 npm i -g @vue/cli
 npm i -g @vue/cli-init
-vue init -c github.com:scarsu/vue3-webpack-template your-project-name
+vue init -c github.com:scarsu/vue3-webpack-template#main your-project-name
 ```
